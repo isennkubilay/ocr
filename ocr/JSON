@@ -1,0 +1,427 @@
+{
+  "status": "Succeeded",
+  "succeeded": true,
+  "failed": false,
+  "finished": true,
+  "recognitionResult": {
+    "lines": [
+      {
+        "boundingBox": [
+          6,
+          8,
+          353,
+          9,
+          352,
+          34,
+          5,
+          33
+        ],
+        "text": "FIRST NAME LAST NAME",
+        "words": [
+          {
+            "boundingBox": [
+              2,
+              9,
+              81,
+              9,
+              80,
+              34,
+              1,
+              34
+            ],
+            "text": "FIRST"
+          },
+          {
+            "boundingBox": [
+              87,
+              9,
+              178,
+              9,
+              177,
+              34,
+              87,
+              34
+            ],
+            "text": "NAME"
+          },
+          {
+            "boundingBox": [
+              186,
+              9,
+              255,
+              9,
+              254,
+              34,
+              185,
+              34
+            ],
+            "text": "LAST"
+          },
+          {
+            "boundingBox": [
+              261,
+              9,
+              352,
+              10,
+              351,
+              34,
+              261,
+              34
+            ],
+            "text": "NAME"
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          8,
+          45,
+          136,
+          46,
+          135,
+          62,
+          7,
+          61
+        ],
+        "text": "RODI ON CHUDINOV",
+        "words": [
+          {
+            "boundingBox": [
+              8,
+              46,
+              45,
+              46,
+              45,
+              61,
+              7,
+              61
+            ],
+            "text": "RODI"
+          },
+          {
+            "boundingBox": [
+              43,
+              46,
+              61,
+              46,
+              61,
+              61,
+              43,
+              61
+            ],
+            "text": "ON"
+          },
+          {
+            "boundingBox": [
+              66,
+              46,
+              135,
+              47,
+              135,
+              62,
+              66,
+              61
+            ],
+            "text": "CHUDINOV"
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          6,
+          72,
+          247,
+          73,
+          246,
+          89,
+          5,
+          87
+        ],
+        "text": "FLAT-403 6:W-SUB-METER-RIMAL-3",
+        "words": [
+          {
+            "boundingBox": [
+              5,
+              72,
+              72,
+              73,
+              72,
+              87,
+              4,
+              86
+            ],
+            "text": "FLAT-403"
+          },
+          {
+            "boundingBox": [
+              77,
+              73,
+              246,
+              74,
+              246,
+              88,
+              76,
+              88
+            ],
+            "text": "6:W-SUB-METER-RIMAL-3"
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          4,
+          89,
+          124,
+          91,
+          123,
+          105,
+          3,
+          104
+        ],
+        "text": "392 MARSA DUBAI",
+        "words": [
+          {
+            "boundingBox": [
+              5,
+              90,
+              31,
+              91,
+              30,
+              105,
+              4,
+              104
+            ],
+            "text": "392"
+          },
+          {
+            "boundingBox": [
+              31,
+              91,
+              80,
+              92,
+              80,
+              105,
+              31,
+              105
+            ],
+            "text": "MARSA"
+          },
+          {
+            "boundingBox": [
+              83,
+              92,
+              127,
+              92,
+              127,
+              105,
+              83,
+              105
+            ],
+            "text": "DUBAI"
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          5,
+          107,
+          201,
+          110,
+          200,
+          125,
+          4,
+          122
+        ],
+        "text": "Premise Number: 392144000",
+        "words": [
+          {
+            "boundingBox": [
+              3,
+              108,
+              61,
+              109,
+              60,
+              124,
+              3,
+              123
+            ],
+            "text": "Premise"
+          },
+          {
+            "boundingBox": [
+              62,
+              109,
+              127,
+              110,
+              126,
+              124,
+              62,
+              124
+            ],
+            "text": "Number:"
+          },
+          {
+            "boundingBox": [
+              125,
+              110,
+              201,
+              111,
+              201,
+              125,
+              124,
+              124
+            ],
+            "text": "392144000"
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          3,
+          125,
+          233,
+          126,
+          232,
+          144,
+          2,
+          142
+        ],
+        "text": "Premise Type: RESIDENTIAL - FLAT",
+        "words": [
+          {
+            "boundingBox": [
+              2,
+              125,
+              60,
+              127,
+              59,
+              143,
+              2,
+              140
+            ],
+            "text": "Premise"
+          },
+          {
+            "boundingBox": [
+              63,
+              127,
+              103,
+              127,
+              102,
+              143,
+              62,
+              143
+            ],
+            "text": "Type:"
+          },
+          {
+            "boundingBox": [
+              103,
+              127,
+              190,
+              128,
+              190,
+              142,
+              102,
+              143
+            ],
+            "text": "RESIDENTIAL"
+          },
+          {
+            "boundingBox": [
+              190,
+              128,
+              199,
+              128,
+              199,
+              142,
+              190,
+              142
+            ],
+            "text": "-"
+          },
+          {
+            "boundingBox": [
+              198,
+              128,
+              233,
+              128,
+              233,
+              140,
+              198,
+              142
+            ],
+            "text": "FLAT"
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          1,
+          145,
+          146,
+          148,
+          145,
+          163,
+          0,
+          160
+        ],
+        "text": "PO Box: 82541, Dubai",
+        "words": [
+          {
+            "boundingBox": [
+              2,
+              146,
+              21,
+              147,
+              20,
+              161,
+              1,
+              160
+            ],
+            "text": "PO"
+          },
+          {
+            "boundingBox": [
+              23,
+              147,
+              58,
+              148,
+              57,
+              162,
+              22,
+              161
+            ],
+            "text": "Box:"
+          },
+          {
+            "boundingBox": [
+              56,
+              148,
+              106,
+              149,
+              105,
+              163,
+              55,
+              162
+            ],
+            "text": "82541,"
+          },
+          {
+            "boundingBox": [
+              106,
+              149,
+              148,
+              149,
+              147,
+              164,
+              105,
+              163
+            ],
+            "text": "Dubai"
+          }
+        ]
+      }
+    ]
+  }
+}
