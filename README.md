@@ -1,5 +1,5 @@
-# ocr
-optical character recognition
+# OCR
+Optical Character Recognition
 
 ## Detecting Location and OCR
 
