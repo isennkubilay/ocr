@@ -4,7 +4,7 @@ optical character recognition
 ## Detecting Location and OCR
 
 <p align="center">
-  <img src="results/14.png" alt="results/result_2.png" width="600" />
+  <img src="results/14.png" alt="results/14.png" width="600" />
 </p>
 
 
@@ -46,7 +46,7 @@ below(green rectangle) , just press ‘c’ to extract, as programmed. It will a
 
 ## OCR Process 
 <p align="center">
-  <img src="results/15.png" alt="results/result_2.png" width="600" />
+  <img src="results/15.png" alt="results/15.png" width="600" />
 </p>
 
 
