@@ -4,7 +4,7 @@ optical character recognition
 ## Detecting Location and OCR
 
 <p align="center">
-  <img src="results/14.png" alt="results/14.png" width="600" />
+  <img src="ocr/results/14.png" alt="results/14.png" width="600" />
 </p>
 
 
