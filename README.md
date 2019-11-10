@@ -32,17 +32,17 @@ it name denn.py
 
 ## Explanation of denn.py code:
 
-• I import the necessary packages
-• Initialize the list of reference points and boolean indicating whether cropping is being
+* I import the necessary packages
+* Initialize the list of reference points and boolean indicating whether cropping is being
 performed or not
-• I use left mouse button in order to click and record the starting (x,y) coordinates and indicate
+* I use left mouse button in order to click and record the starting (x,y) coordinates and indicate
 that cropping being performed.
-• Draw a rectangle around the region of interest
-• Load the image and setup the mouse callback function
-• Display the image and wait for a keypress
-• If the ‘c’ key is pressed, break from the loop(Now after selecting a proper selection like
+* Draw a rectangle around the region of interest
+* Load the image and setup the mouse callback function
+* Display the image and wait for a keypress
+* If the ‘c’ key is pressed, break from the loop(Now after selecting a proper selection like
 below(green rectangle) , just press ‘c’ to extract, as programmed. It will appear like below)
-• Close all open windows
+* Close all open windows
 
 ## OCR Process 
 <p align="center">
