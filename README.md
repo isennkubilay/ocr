@@ -19,12 +19,12 @@ To perform object detection(location detection) using openCV I did these steps:
 
 ## Setup
 I installed the following dependencies via Anaconda:
-• Numpy
-• SciPy
-• OpenCV
-• Pillow
-• Matplotlib
-• Keras
+* Numpy
+* SciPy
+* OpenCV
+* Pillow
+* Matplotlib
+* Keras
 I have installed the dependencies, I wrote my location detection code. Create a Python file and give
 it name denn.py
 
